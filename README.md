@@ -8,6 +8,9 @@ Hello I'm Louise! I'm a junior software developer who is interested in building 
 
 You can check out my portfolio and projects below!
 
+<img src="https://github-readme-stats.vercel.app/api?username=LouiseWong19&show_icons=true&count_private=true&theme=react" width="350">
+
+
 ---
 - 📫 Can find me on [linkedIn](https://www.linkedin.com/in/louiselokyeewong/)
 - ⚡ I also do Judo, hiking and climbing!
